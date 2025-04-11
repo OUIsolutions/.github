@@ -63,4 +63,4 @@ that we use in our projects, and we are making them open source to help the comm
 |[Lua](https://www.lua.org/)                                           |A powerful, efficient, lightweight, embeddable scripting language           | MIT                                                                                           |
 |[cJSON](https://github.com/DaveGamble/cJSON)                          |A lightweight JSON parser in C                                              | [MIT](https://raw.githubusercontent.com/DaveGamble/cJSON/refs/heads/master/LICENSE)           |
 |[tiny-AES-c](https://github.com/kokke/tiny-AES-c)                     |Small portable AES128/192/256 in C                                          |[UNLICENSE](https://raw.githubusercontent.com/kokke/tiny-AES-c/refs/heads/master/LICENSE)      |
-
+|[sha-2](https://github.com/amosnier/sha-2)                            |SHA-2 algorithm implementations in C                                        |[UNLICENSE](https://raw.githubusercontent.com/amosnier/sha-2/refs/heads/master/LICENSE)        |
