@@ -10,12 +10,13 @@ that we use in our projects, and we are making them open source to help the comm
 
 Thanks to all the contributors who have helped make this ideia a reality.
 
-| Name                   | GitHub                                                                        | email                              | phone             |
-|------------------------|-------------------------------------------------------------------------------|------------------------------------|-------------------|
-|Mateus Moutinho Queiroz |[mateusmoutinho](https://github.com/mateusmoutinho)                            |mateusmoutinho01@gmail.com          |+55 11 98333-1701  |
-|Samuel Henrique         |[SamuelHenriqueDeMoraisVitrio](https://github.com/SamuelHenriqueDeMoraisVitrio)|samuelhenriquemoraisvitrio@gmail.com|+55 62 99111-7253  |
-|CoryRamsey              |[CoryRamsey](https://github.com/CoryRamsey)                                    | Not Provided                       | Not Provided      |
-| Michaelangel007        |[Michaelangel007](https://github.com/Michaelangel007)                          | Not Provided                       | Not Provided      |
+| Name                          | GitHub                                                                        | email                              | phone             |
+|-------------------------------|-------------------------------------------------------------------------------|------------------------------------|-------------------|
+|Mateus Moutinho Queiroz        |[mateusmoutinho](https://github.com/mateusmoutinho)                            |mateusmoutinho01@gmail.com          |+55 11 98333-1701  |
+|Samuel Henrique                |[SamuelHenriqueDeMoraisVitrio](https://github.com/SamuelHenriqueDeMoraisVitrio)|samuelhenriquemoraisvitrio@gmail.com|+55 62 99111-7253  |
+|Samuel Santos Gomes de Souza   |[SamuelSGSouza](https://github.com/SamuelSGSouza)                              |Samuels.g.desouza@gmail.com         | Not Provided      |
+|CoryRamsey                     |[CoryRamsey](https://github.com/CoryRamsey)                                    | Not Provided                       | Not Provided      |
+|Michaelangel007                |[Michaelangel007](https://github.com/Michaelangel007)                          | Not Provided                       | Not Provided      |
 
 
 ## C/C++ Libraries
