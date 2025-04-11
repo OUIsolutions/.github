@@ -8,3 +8,7 @@ that we use in our projects, and we are making them open source to help the comm
 
 ## C/C++ Libraries
 
+| Name                                                   | Description                   | License | 
+|--------------------------------------------------------|-------------------------------|---------|
+|[CWebStudio](https://github.com/OUIsolutions/CWebStudio)|An Modern Reactive C Web Server|[MIT](https://raw.githubusercontent.com/OUIsolutions/CWebStudio/refs/heads/main/LICENSE)|
+|
