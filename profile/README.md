@@ -29,3 +29,12 @@ that we use in our projects, and we are making them open source to help the comm
 |[SilverChain](https://github.com/OUIsolutions/SilverChain)          |a unified import model for C/C++/Lua              |[MIT](https://raw.githubusercontent.com/OUIsolutions/SilverChain/refs/heads/main/LICENSE)           |Stable      |
 |[yahr](https://github.com/OUIsolutions/yahr)                        |Yet another Hot Reloader for front end            |[MIT](https://raw.githubusercontent.com/OUIsolutions/yahr/refs/heads/main/LICENSE)                  |Beta        |
 |[key_obfuscate](https://github.com/OUIsolutions/key_obfuscate)      |a key obfuscator generator                     |[MIT](https://raw.githubusercontent.com/OUIsolutions/key_obfuscate/refs/heads/main/LICENSE)            |Beta        |
+
+## Lua Libraries
+
+| Name                                                                                   | Description                                                                | License                                                                                                   |  Status    |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------|
+|[LuaCAmalgamator](https://github.com/OUIsolutions/LuaCAmalgamator)                      |A Wrapper of [CAmalgamator](https://github.com/OUIsolutions/CAmalgamator)   |[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaCAmalgamator/refs/heads/main/LICENSE)              |Stable      |
+|[LuaSilverChain](https://github.com/OUIsolutions/LuaSilverChain)                        |A Wrapper of [SilverChain](https://github.com/OUIsolutions/SilverChain)     |[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaSilverChain/refs/heads/main/LICENSE)               |Stable      |
+|[LuaShip](https://github.com/OUIsolutions/LuaShip)                                      |A Lua Container ORM Wrapper                                                 |[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaShip/refs/heads/main/LICENSE)                      |Beta        |
+|[LuaDoTheWorld](https://github.com/OUIsolutions/LuaDoTheWorld)                          |A wrapper of [DoTheWorld](https://github.com/OUIsolutions/DoTheWorld)       |[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaDoTheWorld/refs/heads/main/LICENSE)                |Beta        |
