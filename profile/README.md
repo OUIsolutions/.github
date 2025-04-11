@@ -18,3 +18,7 @@ that we use in our projects, and we are making them open source to help the comm
 |[CTextEngine](https://github.com/OUIsolutions/CTextEngine)          |Text engine for general propose foccused on html  |[MIT](https://raw.githubusercontent.com/OUIsolutions/CTextEngine/refs/heads/main/LICENSE)           |Stable      |
 |[CHashManipulator](https://github.com/OUIsolutions/CHashManipulator)| A Powerfull Object /Array Manipulator            |[MIT](https://raw.githubusercontent.com/OUIsolutions/CHashManipulator/refs/heads/main/LICENSE)      |Stable      |
 |[C-argv-parser](https://github.com/OUIsolutions/C-argv-parser)      |a heaples single file argv parser for C           |[UNLICENSE](https://raw.githubusercontent.com/OUIsolutions/C-argv-parser/refs/heads/main/LICENSE)   |Stable      |
+
+## Tools
+| Name                                                               | Description                                     | License                                                                                            |  Status    |
+|--------------------------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------|------------|
