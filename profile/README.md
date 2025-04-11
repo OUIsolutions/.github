@@ -46,3 +46,15 @@ that we use in our projects, and we are making them open source to help the comm
 |[LuaSilverChain](https://github.com/OUIsolutions/LuaSilverChain)                        |A Wrapper of [SilverChain](https://github.com/OUIsolutions/SilverChain)     |[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaSilverChain/refs/heads/main/LICENSE)               |Stable      |
 |[LuaShip](https://github.com/OUIsolutions/LuaShip)                                      |A Lua Container ORM Wrapper                                                 |[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaShip/refs/heads/main/LICENSE)                      |Beta        |
 |[LuaDoTheWorld](https://github.com/OUIsolutions/LuaDoTheWorld)                          |A wrapper of [DoTheWorld](https://github.com/OUIsolutions/DoTheWorld)       |[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaDoTheWorld/refs/heads/main/LICENSE)                |Beta        |
+
+## Templates
+
+| Name                                                                 | Description                                                                | License                                                                                                   |  Status    |
+|----------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------|
+|[RagCraft](https://github.com/OUIsolutions/RagCraft)                  |A CLI Template/Framework for creating AI Command line Agents in C           |[UNLICENSE](https://raw.githubusercontent.com/OUIsolutions/RagCraft/refs/heads/main/LICENSE)               |Beta        |
+|[C-Build-Template](https://github.com/OUIsolutions/C-Build-Template)  |A build template to compile single unit compilation projects                |[UNLICENSE](https://raw.githubusercontent.com/OUIsolutions/C-Build-Template/refs/heads/main/LICENSE)       |Beta        |
+
+## Dependencies
+
+| Name                                                                 | Description                                                                | License                                                                                                   | 
+|----------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
