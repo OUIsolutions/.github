@@ -1,12 +1,10 @@
-## Hi there 👋
+## OUI Github
 
-<!--
+OUI its a Brazilian company foccused on provide automation solutions for the industry. 
+we create Robotic Process Automation (RPA) solutions, data extraction and data manipulation
+by using Artificial Intelligence, and operational intelligence solutions with state machines
+configurations. For making all these projects, we have developed a set of libs and tools
+that we use in our projects, and we are making them open source to help the community.
 
-**Here are some ideas to get you started:**
+## C/C++ Libraries
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
