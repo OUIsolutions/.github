@@ -56,5 +56,11 @@ that we use in our projects, and we are making them open source to help the comm
 
 ## Dependencies
 
-| Name                                                                 | Description                                                                | License                                                                                                   | 
-|----------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Name                                                                 | Description                                                                | License                                                                                       | 
+|----------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|[wkhtmltopdf](https://wkhtmltopdf.org/)                               |A command line tool to render HTML into PDF using Webkit engine             |[LGPL](https://raw.githubusercontent.com/wkhtmltopdf/wkhtmltopdf/refs/heads/master/LICENSE)    |
+|[BearSSL](https://www.bearssl.org/)                                   |A small SSL/TLS library written in C                                        | MIT                                                                                           |
+|[Lua](https://www.lua.org/)                                           |A powerful, efficient, lightweight, embeddable scripting language           | MIT                                                                                           |
+|[cJSON](https://github.com/DaveGamble/cJSON)                          |A lightweight JSON parser in C                                              | [MIT](https://raw.githubusercontent.com/DaveGamble/cJSON/refs/heads/master/LICENSE)           |
+|[tiny-AES-c](https://github.com/kokke/tiny-AES-c)                     |Small portable AES128/192/256 in C                                          |[UNLICENSE](https://raw.githubusercontent.com/kokke/tiny-AES-c/refs/heads/master/LICENSE)      |
+
