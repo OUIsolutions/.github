@@ -16,7 +16,7 @@ Thanks to all the contributors who have helped make this ideia a reality.
 |Samuel Henrique                |[SamuelHenriqueDeMoraisVitrio](https://github.com/SamuelHenriqueDeMoraisVitrio)|samuelhenriquemoraisvitrio@gmail.com|+55 62 99111-7253  |
 |Samuel Santos Gomes de Souza   |[SamuelSGSouza](https://github.com/SamuelSGSouza)                              |Samuels.g.desouza@gmail.com         | Not Provided      |
 |Danilo Joaquim                 |[danilo-joaquim](https://github.com/danilo-joaquim)                            |danilo@oui.tec.br                   | Not Provided      |
-|
+|Daniel Murilo Vaz              |[daniellvaz](https://github.com/daniellvaz)                                    |daniellmvaz@gmail.com               | Not Provided      |
 |CoryRamsey                     |[CoryRamsey](https://github.com/CoryRamsey)                                    |Not Provided                        | Not Provided      |
 |Michaelangel007                |[Michaelangel007](https://github.com/Michaelangel007)                          |Not Provided                        | Not Provided      |
 
