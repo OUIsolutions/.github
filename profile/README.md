@@ -8,7 +8,10 @@ that we use in our projects, and we are making them open source to help the comm
 
 ## C/C++ Libraries
 
-| Name                                                   | Description                   | License | 
-|--------------------------------------------------------|-------------------------------|---------|
-|[CWebStudio](https://github.com/OUIsolutions/CWebStudio)|An Modern Reactive C Web Server|[MIT](https://raw.githubusercontent.com/OUIsolutions/CWebStudio/refs/heads/main/LICENSE)|
+| Name                                                   | Description                                     | License                                                                                            |  Status    |
+|--------------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------|------------|
+|[CWebStudio](https://github.com/OUIsolutions/CWebStudio)|An Modern Reactive C Web Server                  |[MIT](https://raw.githubusercontent.com/OUIsolutions/CWebStudio/refs/heads/main/LICENSE)            |Stable      |
+|[BearHttpsClient](https://github.com/OUIsolutions/BearHttpsClient)|A BearSSL Based Https Client           |[MIT](https://raw.githubusercontent.com/OUIsolutions/BearHttpsClient/refs/heads/main/LICENSE)       |Alpha       |
+|[DoTheWorld](https://github.com/OUIsolutions/DoTheWorld)| A complete Io Solution                          |[MIT](https://raw.githubusercontent.com/OUIsolutions/DoTheWorld/refs/heads/main/LICENSE)            |Stable      |
+|[LuaCEmbed](https://github.com/OUIsolutions/LuaCEmbed)  |a Lua Wrapper to facilitate lua embedding process|[MIT](https://raw.githubusercontent.com/OUIsolutions/LuaCEmbed/refs/heads/main/LICENSE)             |Beta        |
 |
