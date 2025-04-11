@@ -6,6 +6,18 @@ by using Artificial Intelligence, and operational intelligence solutions with st
 configurations. For making all these projects, we have developed a set of libs and tools
 that we use in our projects, and we are making them open source to help the community.
 
+## Contribuitors
+
+Thanks to all the contributors who have helped make this ideia a reality.
+
+| Name                   | GitHub                                                                        | email                              | phone             |
+|------------------------|-------------------------------------------------------------------------------|------------------------------------|-------------------|
+|Mateus Moutinho Queiroz |[mateusmoutinho](https://github.com/mateusmoutinho)                            |mateusmoutinho01@gmail.com          |+55 11 98333-1701  |
+|Samuel Henrique         |[SamuelHenriqueDeMoraisVitrio](https://github.com/SamuelHenriqueDeMoraisVitrio)|samuelhenriquemoraisvitrio@gmail.com|+55 62 99111-7253  |
+|                        |[CoryRamsey](https://github.com/CoryRamsey)|
+
+
+
 ## C/C++ Libraries
 
 | Name                                                                                   | Description                                     | License                                                                                                   |  Status    |
