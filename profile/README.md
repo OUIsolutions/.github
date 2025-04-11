@@ -7,9 +7,9 @@ configurations. For making all these projects, we have developed a set of libs a
 that we use in our projects, and we are making them open source to help the community.
 ## Want Private suport ? 
 if you want private suport to implement our solutions, or if you want to create a custom solution for your company, please contact us
-    - mateusmoutinho01@gmail.com       
-    - samuelhenriquemoraisvitrio@gmail.com
-    
+    - mateusmoutinho01@gmail.com  +55 11 98333-1701      
+    - samuelhenriquemoraisvitrio@gmail.com +55 62 99111-7253 
+
 ## Contribuitors
 
 Thanks to all the contributors who have helped make this ideia a reality.
