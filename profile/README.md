@@ -14,8 +14,8 @@ Thanks to all the contributors who have helped make this ideia a reality.
 |------------------------|-------------------------------------------------------------------------------|------------------------------------|-------------------|
 |Mateus Moutinho Queiroz |[mateusmoutinho](https://github.com/mateusmoutinho)                            |mateusmoutinho01@gmail.com          |+55 11 98333-1701  |
 |Samuel Henrique         |[SamuelHenriqueDeMoraisVitrio](https://github.com/SamuelHenriqueDeMoraisVitrio)|samuelhenriquemoraisvitrio@gmail.com|+55 62 99111-7253  |
-|                        |[CoryRamsey](https://github.com/CoryRamsey)|
-
+|CoryRamsey              |[CoryRamsey](https://github.com/CoryRamsey)                                    | Not Provided                       | Not Provided      |
+| Michaelangel007        |[Michaelangel007](https://github.com/Michaelangel007)                          | Not Provided                       | Not Provided      |
 
 
 ## C/C++ Libraries
