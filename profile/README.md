@@ -35,6 +35,7 @@ Thanks to all the contributors who have helped make this idea a reality.
 |Daniel Murilo Vaz              |[daniellvaz](https://github.com/daniellvaz)                                    |daniellmvaz@gmail.com               | Not Provided      |
 |CoryRamsey                     |[CoryRamsey](https://github.com/CoryRamsey)                                    |Not Provided                        | Not Provided      |
 |Michaelangel007                |[Michaelangel007](https://github.com/Michaelangel007)                          |Not Provided                        | Not Provided      |
+|Victor Borghi Gimenez          |[VictorGimenez](https://github.com/VictorGimenez)                              |victor.gimenez@gmx.es               | Not Provided      |
 
 ## C/C++ Libraries
 
