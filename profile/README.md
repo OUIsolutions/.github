@@ -26,15 +26,18 @@ If you want private support to implement our solutions, or if you need a custom 
 
 Thanks to all the contributors who have helped make this idea a reality.
 
-| Name                          | GitHub                                                                        | Email                              | Phone             |
-|-------------------------------|-------------------------------------------------------------------------------|------------------------------------|-------------------|
-|Mateus Moutinho Queiroz        |[mateusmoutinho](https://github.com/mateusmoutinho)                            |mateusmoutinho01@gmail.com          |+55 11 98333-1701  |
-|Samuel Henrique                |[SamuelHenriqueDeMoraisVitrio](https://github.com/SamuelHenriqueDeMoraisVitrio)|samuelhenriquemoraisvitrio@gmail.com|+55 62 99111-7253  |
-|Samuel Santos Gomes de Souza   |[SamuelSGSouza](https://github.com/SamuelSGSouza)                              |Samuels.g.desouza@gmail.com         | Not Provided      |
-|Danilo Joaquim                 |[danilo-joaquim](https://github.com/danilo-joaquim)                            |danilo@oui.tec.br                   | Not Provided      |
-|Daniel Murilo Vaz              |[daniellvaz](https://github.com/daniellvaz)                                    |daniellmvaz@gmail.com               | Not Provided      |
-|CoryRamsey                     |[CoryRamsey](https://github.com/CoryRamsey)                                    |Not Provided                        | Not Provided      |
-|Michaelangel007                |[Michaelangel007](https://github.com/Michaelangel007)                          |Not Provided                        | Not Provided      |
+| Name                           | GitHub                                                                         | Email                              | Phone             |
+|--------------------------------|--------------------------------------------------------------------------------|------------------------------------|-------------------|
+| Mateus Moutinho Queiroz        |[mateusmoutinho](https://github.com/mateusmoutinho)                             |mateusmoutinho01@gmail.com          |+55 (11) 98333-1701  |
+| Samuel Henrique                |[SamuelHenriqueDeMoraisVitrio](https://github.com/SamuelHenriqueDeMoraisVitrio) |samuelhenriquemoraisvitrio@gmail.com|+55 (62) 99111-7253  |
+| Samuel Santos Gomes de Souza   |[SamuelSGSouza](https://github.com/SamuelSGSouza)                               |Samuels.g.desouza@gmail.com         | Not Provided        |
+| Danilo Joaquim                 |[danilo-joaquim](https://github.com/danilo-joaquim)                             |danilo@oui.tec.br                   | Not Provided        |
+| Daniel Murilo Vaz              |[daniellvaz](https://github.com/daniellvaz)                                     |daniellmvaz@gmail.com               | Not Provided        |
+| CoryRamsey                     |[CoryRamsey](https://github.com/CoryRamsey)                                     |Not Provided                        | Not Provided        |
+| Michaelangel007                |[Michaelangel007](https://github.com/Michaelangel007)                           |Not Provided                        | Not Provided        |
+| Gabriel                        |[gabreudev](https://github.com/gabreudev)                                       |gabrielsevladev@gmail.com           | Not Provided        |
+| Angelo Augusto                 |[augustofrade](https://github.com/augustofrade)                                 |angeloafgarcia@gmail.com            | Not Provided        |
+| Jennifer Vaz                   | Not Provided                                                                   |jennifer@oui.tec.br                 | +55 (11) 99637-8938 |
 
 ## C/C++ Libraries
 
