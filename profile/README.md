@@ -38,6 +38,7 @@ Thanks to all the contributors who have helped make this idea a reality.
 | Gabriel                        |[gabreudev](https://github.com/gabreudev)                                       |gabrielsevladev@gmail.com           | Not Provided        |
 | Angelo Augusto                 |[augustofrade](https://github.com/augustofrade)                                 |angeloafgarcia@gmail.com            | Not Provided        |
 | Jennifer Vaz                   | Not Provided                                                                   |jennifer@oui.tec.br                 | +55 (11) 99637-8938 |
+| Kauã Henrique                  |[KauaHenSilva](https://github.com/KauaHenSilva)                                 |kaua.sbc@gmail.com                  | Not Provided        |
 
 ## C/C++ Libraries
 
